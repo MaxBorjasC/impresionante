@@ -1,1 +1,4 @@
-mexico 1111
+mexico 
+peru
+canada
+brasil
